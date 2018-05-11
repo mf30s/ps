@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: This is Pure Testing
+title: 'This [not] is Pure Testing'
 date: {}
 description: This is pure testing
 tags:
   - This is pure testing
-published: false
 ---
 # This is pure testing
 
