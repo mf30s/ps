@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
 title: This is Pure Testing
-date: 2018-04-24T08:39:25.089Z
+date: {}
 description: This is pure testing
 tags:
   - This is pure testing
+published: false
 ---
 # This is pure testing
 
